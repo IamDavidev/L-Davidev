@@ -3,6 +3,7 @@
 
 <!--
 **L-Davidev/L-Davidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=22656)](https://github.com/harish-sethuraman/readme-components)
 
 Here are some ideas to get you started:
 
