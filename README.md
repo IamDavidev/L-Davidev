@@ -19,3 +19,6 @@
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linkedin&text=LinkIn&animation=spin&fill=162636)](https://www.linkedin.com/in/david-lezama-a81741219/)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&text=Intagram&animation=spin&fill=c13584)](https://www.instagram.com/davidev.mgk/)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&text=github&animation=spin&fill=000000)](https://github.com/L-Davidev/L-Davidev/L-davidev)
+
+# `socials` 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L-davidev&show_icons=true&theme=radical)
