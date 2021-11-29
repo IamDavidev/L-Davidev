@@ -1,6 +1,9 @@
-### Hi there 👋
-#### Hola bienvenidos a mi github espero que puedas encontrar algun parte de codigo que te pueda ayudar a seguir aprendiendo 
-
+### `Im David `
+# My Skills❗❗❗
+![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=90&skill=Html&fill=000000)
+![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=80&skill=JS&fill=000000)
+![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=80&skill=Css&fill=000000)
+![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=80&skill=React&fill=000000)
 <!--
 **L-Davidev/L-Davidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=22656)](https://github.com/harish-sethuraman/readme-components)
