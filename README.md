@@ -1,22 +1,10 @@
-### `Im David `
-# My Skills❗❗❗
+### `Im David `💤💤
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L-davidev&repo=davtion)](https://github.com/anuraghazra/github-readme-stats)
+
+# `My Skills`❗❗❗
 ![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=70&skill=Html&design=neon)
 ![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=60&skill=JS&design=neon)
 ![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=70&skill=Css&design=neon)
 ![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=50&skill=React&design=neon)
-
-<!--
-**L-Davidev/L-Davidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=22656)](https://github.com/harish-sethuraman/readme-components)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# `MOST USED LANGUAGES`
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L-davidev&layout=compact)
