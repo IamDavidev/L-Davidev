@@ -1,7 +1,7 @@
 # `Im David `💤💤
 
 # `current project`✔
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L-davidev&repo=davtion)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L-davidev&repo=davtion)](https://github.com/L-Davidev/DavTion)
 
 #### ~ `technologies`💢
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=redux&textfill=000000&fill=00ffff)
